@@ -1,1 +1,0 @@
-Rebuild seems to have taking longer on Postscript changes
