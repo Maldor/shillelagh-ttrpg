@@ -22,7 +22,7 @@ When creating a character, please take note of the following restrictions. If it
 - User Preference
 - You may take an extra feat with the DMs Approval
 ## Abilities
-- Generation method: Standard Array
+- Generation method: Standard Array or Point Buy
 ## Description
 - Set a background
 - Alignment: No Evil
