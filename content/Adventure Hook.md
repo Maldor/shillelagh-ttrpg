@@ -1,0 +1,17 @@
+---
+title: "Announcing: Princes of the Apocalypse"
+draft: false
+---
+# Welcome
+Welcome to the Princes of the Apocalypse. I'm Maldor, and I'll be your Dungeon Master for this Adventure. Please make sure to keep your pencils, papers and dice inside the play area at all times. To start off, there will be an initial roleplay section. During this initial roleplay period, all of you will receive a part of your own personal quest. Following that, we will determine if you remain at Level 1 or if you proceed to Level 3. It is anticipated that you will progress through to level 15. If we decide to extend that to level 20, then I will accommodate appropriately. Session 0 will also determine the characters were already a group travelling together, or if circumstances force them together.
+
+> [!SUMMARY]
+> A terrible threat gathers in the North. Throughout this region of the Forgotten Realms, savage marauders bring destruction. Monsters are on the prowl, preying on flocks, rampaging through croplands, and attacking homesteads and travelers. In settlements, discord and suspicion grow. Sinister strangers lurk in the shadows, whispering about how everything is soon to change. This year brought an unseasonably warm and stormy spring. Tales spread of flooding, windstorms, wildfires, and tremors.
+>
+>These troubles have a source known to few in the North: Elemental Evil. Servants of this malevolence gather in the Sumber Hills and spy on the Dessarin Valley, drawn by a force they can’t explain. Dabbling in dangerous lore, these fanatics seek to master elemental magic and unleash its destructive power everywhere. And they are further along in their plans than most people in the North realize.
+>Four elemental cults grow in power in the Sumber Hills, claiming abandoned keeps that connect to an underground fortress once part of an ancient dwarven kingdom. Within those chambers are the remnants of a temple built by drow worshipers of Elemental Evil. Each of the four cults venerates a powerful entity of air, earth, fire, or water: a Prince of Elemental Evil. Like their princes, the four cults are rivals, yet they all serve a mysterious force they call the Elder Elemental Eye.
+>
+>A prophet gifted with a powerful elemental weapon leads each cult. Those weapons — [Windvane,](https://www.dndbeyond.com/magic-items/5593-windvane) [Ironfang,](https://www.dndbeyond.com/magic-items/5591-ironfang) [Tinderstrike,](https://www.dndbeyond.com/magic-items/5592-tinderstrike) and [Drown](https://www.dndbeyond.com/magic-items/5590-drown) — were the catalysts for the creation of four elemental nodes, places where the Elemental Planes connect to the Material Plane. The cults draw elemental creatures through the nodes, and they use elemental magic to create [devastation orbs](https://www.dndbeyond.com/magic-items/5581-devastation-orb) capable of ravaging the countryside. They’ve been testing these magic weapons, bolstering the cults’ ranks, and infiltrating various communities, all directed by visions the prophets receive from the Elder Elemental Eye. In time, each prophet hopes to entice his or her elemental prince to pass through the node and wreak devastation on the Dessarin Valley and beyond.
+
+> [!NOTE] Additional
+> _Princes of the Apocalypse_ presents an epic campaign against the forces of Elemental Evil that can occupy you and your players for many months. Characters who are at least 3rd level can dive right into the main adventure. A party of 1st- or 2nd-level characters should start with the mini-adventure.
