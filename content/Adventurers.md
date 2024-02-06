@@ -11,7 +11,9 @@ Very tall and moderately strong. Heavily scarred on his left side from the fires
 # Fendra Ahliya
 ### Player: Brittaneee!
 ### Backstory
-A fairy wizard who lived most of her life alone in the forest. Socially awkward and likes to collect things (including knowledge of things) because she never had much to her name. Now she likes to collect trinkets and books. Eccentric in a nerdy way.
+Fendra was born in her family home, the Sanctuary Archive of lost and powerful knowledge. Located deep in a forest of the Feywilds the archive was mostly isolated, and its knowledge guarded for generations by the Ahliya clan.
+The archive is sacred, powerful, and alive. It’s sentient, objects tend to appear and disappear in the dwelling based on its mood. Windows and doors open and close on their own. Inhabitants, at times, get a feeling that someone or something is there, often guiding towards or away from something.
+Twenty years ago, Fendra’s parents disappeared. She has no idea where they went or why. She was a child when her parents left and the spirts of the surrounding forest and archive raised her. She has little knowledge of the outside world beyond what she has learned from the many books that fill the archive. It was her birthright and duty to stay at the archive. An Alihya must be present to protect the magic. If left unattended for too long, the magic will fail, the sanctuary will die, and all the knowledge it protects is vulnerable.
 # Player 3
 ### Player: MuhDeuce
 ### Backstory
