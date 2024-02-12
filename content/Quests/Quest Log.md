@@ -1,1 +1,4 @@
-This book is oddly empty, maybe wait until it fills...
+## Unsolved
+[[Investigate Lance Rock]]
+
+## Solved
