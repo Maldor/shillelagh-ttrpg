@@ -1,4 +1,4 @@
-import { i18n } from "../../i18n/i18next"
+import { i18n } from "../../i18n"
 import { QuartzComponentConstructor, QuartzComponentProps } from "../types"
 
 function NotFound({ cfg }: QuartzComponentProps) {
