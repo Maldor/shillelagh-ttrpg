@@ -1,5 +1,3 @@
-This group of Adventurers has yet to gather...
-
 # Dagan Frebyld
 ### Player: David
 # Fendra Ahliya
