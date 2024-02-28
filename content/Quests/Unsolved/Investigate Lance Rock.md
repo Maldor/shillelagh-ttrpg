@@ -1,13 +1,15 @@
 Quest giver: [[Kaylessa Irkell|Kaylessa]]
 
 Kaylessa has grown concerned about the rumors of evil and "things gathering in the dark". She has asked Dagan to investigate that if he can and has time, offering a reward if he does.
+
+The Adventurers have managed to capture the self proclaimed Lord of Lance Rock
 ## Tasks
-- [ ] Investigate Lance Rock, Northwest of Town
+- [x] Investigate Lance Rock, Northwest of Town
 	- [x] Clear Entrance
 	- [x] Clear Corpse room
-	- [ ] Clear Room with Well dressed Zombie
-	- [ ] ???
-	- [ ] ???
+	- [x] Clear Room with Well dressed Zombie
+	- [x] Clear the Workshop
+	- [x] Clear the Study
 - [ ] Report findings back to Kaylessa
 
 >[!Done] Rewards
