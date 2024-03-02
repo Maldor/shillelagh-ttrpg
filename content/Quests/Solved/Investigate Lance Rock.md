@@ -10,7 +10,7 @@ The Adventurers have managed to capture the self proclaimed Lord of Lance Rock
 	- [x] Clear Room with Well dressed Zombie
 	- [x] Clear the Workshop
 	- [x] Clear the Study
-- [ ] Report findings back to Kaylessa
+- [x] Report findings back to Kaylessa
 
 >[!Done] Rewards
 >Kaylessa offered Dagan 50 gp to investigate Lance Rock and make sure no sinister forces are lurking there. 
