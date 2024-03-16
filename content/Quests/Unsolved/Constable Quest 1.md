@@ -4,7 +4,7 @@ Harburk has given you some information about a bandit camp somewhere in the Sumb
 
 The Adventurers have managed to capture the self proclaimed Lord of Lance Rock
 ## Tasks
-- [ ] Investigate Area near Red Larch in the Sumber Hills
+- [x] Investigate Area near Red Larch in the Sumber Hills
 - [ ] Report back to Harburk your findings
 
 >[!Done] Rewards
