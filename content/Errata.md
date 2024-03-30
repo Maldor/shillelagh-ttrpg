@@ -6,12 +6,15 @@ None
 # Session 2
 None
 # Session 3
-- Detect Magic was used  after the disintegration of Orieoth. This should have revealed that the dagger was magically enhanced but the DM said that no magic was emanating from the dagger. Any item with a +1,2 or 3 is considered a magic weapon. The DM was under the impression that it was not a magic weapon AND that Detect Magic could only detect magic that had a school assigned to it (which magically enhanced weapons technically don't)
+- Detect Magic was used after the disintegration of Orieoth. This should have revealed that the dagger was magically enhanced but the DM said that no magic was emanating from the dagger. Any item with a +1,2 or 3 is considered a magic weapon. The DM was under the impression that it was not a magic weapon AND that Detect Magic could only detect magic that had a school assigned to it (which magically enhanced weapons technically don't)
 # Session 4
 ## Feathergale Spire
-- On the approach to Feathergale spire, it should have been noted that their was a flyer in the air circling the spire.
+- On the approach to Feathergale spire, it should have been noted that there was a flyer in the air circling the spire.
 - On the top floor where Thurl was met, there should have been a pair of Giant vultures in addition to the Feathergale Knights. 
 - The Drawbridge should have been up, but the PCs would have seen a bell from which to call Savra
-- Savra or Thrul should have mentioned the purpose of the feast, but didn't narratively it will make more sense in Session 5
+- Savra or Thrul should have mentioned the purpose of the feast, but didn't. Narratively it will make more sense in Session 5
 # Session 5
-- 
+- Rules as written, the search for the manticore is determined by rolling a d20 and adding 1 for each character in the party
+- Combat when initiated it does follow combat rules, but its assumed that you are in range.
+- There is only supposed to be one round of combat and then its determined if you need to try and search for it again by making a perception check
+- The characters killed the manticore while in the air. But the DM wanted to have a ground fight as well. The manticore started that fight with half HP...
