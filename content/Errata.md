@@ -18,3 +18,4 @@ None
 - Combat when initiated it does follow combat rules, but its assumed that you are in range.
 - There is only supposed to be one round of combat and then its determined if you need to try and search for it again by making a perception check
 - The characters killed the manticore while in the air. But the DM wanted to have a ground fight as well. The manticore started that fight with half HP...
+# Session 6
