@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 Quest giver: [[Maldor]]
 
