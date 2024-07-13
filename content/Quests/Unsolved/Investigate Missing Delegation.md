@@ -9,7 +9,7 @@ Contacts information:
 ## Tasks
 - [x] Speak with Gauntlet contact
 - [ ] Start the search...
-	- [ ] ... along the road leading from Red Larch to Beliard
+	- [x] ... along the road leading from Red Larch to Beliard
 	OR
 	- [ ] ... in the Sumber Hills near Red Larch
 

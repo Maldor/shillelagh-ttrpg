@@ -19,3 +19,21 @@ None
 - There is only supposed to be one round of combat and then its determined if you need to try and search for it again by making a perception check
 - The characters killed the manticore while in the air. But the DM wanted to have a ground fight as well. The manticore started that fight with half HP...
 # Session 6
+None
+# Session 7
+None
+# Session 8
+None, I'm getting the hang of this...
+# Session 9
+None
+# Session 10
+10 official sessions! No Errata here though
+# Session 11
+RAW, Gargoyles have the following resistances:
+`Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Adamantine`
+Foundry VTT has it set to the following:
+`Bludgeoning, Piercing, and Slashing from Attacks that are not Adamantine`
+This lead to the PCs dealing only half of their expected damage through the encounter with the Gargoyles. This wasn't caught until the tail end when I made some mental calculations to find out that they should not be having trouble here, given their level.
+After some consulting the RAW isn't very well worded but the interpretation is this:
+`Bludgeoning, Piercing, and Slashing from Attacks that aren't Adamantine or Magical`
+Any future encounters will have me checking the resistances a little more closely.

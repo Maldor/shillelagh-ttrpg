@@ -1,6 +1,6 @@
 Quest giver: [[Harburk Tuthmarillar]]
 
-Harburk has given you some information about a bandit camp somewhere in the Sumber Hills near Red Larch, you'll have to find the camp and remove the bandits
+Harburk has given you some information about a bandit camp somewhere in the Sumber Hills near Red Larch, you'll have to find the camp and remove the bandits.
 
 The Adventurers have managed to capture the self proclaimed Lord of Lance Rock
 ## Tasks
