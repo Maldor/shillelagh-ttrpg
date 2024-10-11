@@ -2,7 +2,9 @@
 This is Maldors ship, he offers it to you to use as your Bastion for this adventure. This space follows the rules for Bastions that were in the Unearthed Arcana 2023 rules. Because of the nature of this ship, some facilities have no use or are modified to fit the ship. Except where specified, all Facilities are available for use.
 ## Details
 Bastion Level: 19
+
 Hirelings: 9
+
 Facilities:
 
 | Basic       | Special     |
